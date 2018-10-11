@@ -6,6 +6,7 @@
 <body>
 <h1>add test</h1>
 <h1>ショウトツテスト</h1>
+<h2>2回目</h2>
 <form action="" method="POST">
 <button type="submit" name="num" value="1">1</button>
 <button type="submit" name="num" value="2">2</button>
